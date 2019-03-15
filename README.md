@@ -3,7 +3,9 @@
 ### How to install?
 
 `git clone https://github.com/dogukanoksuz/gulp-ready2use.git`
+
 `cd gulp-ready2use`
+
 `npm install`
 
 It'll install all dependencies then use it with: `gulp`
